@@ -13,4 +13,6 @@
 </template>
 <script setup>
 import MainLayout from "~/layouts/MainLayout.vue";
+
+let products = ref(null)
 </script>
